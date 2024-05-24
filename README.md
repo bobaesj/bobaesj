@@ -18,4 +18,4 @@
  
 #### :pencil2: Study log
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bobaesj)](https://solved.ac/bobaesj/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bobaesj20)](https://solved.ac/bobaesj20/)
