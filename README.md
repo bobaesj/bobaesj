@@ -1,7 +1,7 @@
 <div> 
-    <h2>
+    <h1>
       😎 SangJin's GITHUB 😎
-    </h2>  
+    </h1>  
 </div>
 <div> 
     <h2>
