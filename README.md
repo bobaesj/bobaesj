@@ -2,7 +2,13 @@
     <h1>
       😎 SangJin's GITHUB 😎
     </h1>  
+    <ul>
+    <li>포트폴리오: <a href="https://seen-reminder-ab4.notion.site/Portfolio-13e049c7252c80019f16faccc9b9d4a7?pvs=4" target="_blank">https://seen-reminder-ab4.notion.site/Portfolio-13e049c7252c80019f16faccc9b9d4a7?pvs=4</a></li>
     </br>
+    <li>이력서: <a href="" target="_blank"></a></li>
+    </br>
+    <li>이메일: <a href="mailto:bobaesj0923@gmail.com">bobaesj0923@gmail.com</a></li>
+</ul>
 </div>
 <div> 
     <h2>
