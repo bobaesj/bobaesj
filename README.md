@@ -61,7 +61,7 @@
         <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     </div>
 </div>
-<div>
+<!-- <div>
     <h2> 
         ✨ Contact me 
     </h2> </br> 
@@ -70,4 +70,4 @@
              <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bobaesj0923@gmail.com">
          </a>
     </div>
-</div>
+</div> -->
