@@ -3,7 +3,7 @@
       😎 SangJin's GITHUB 😎
     </h1>  
     <ul>
-    <li>포트폴리오: <a href="https://seen-reminder-ab4.notion.site/Portfolio-13e049c7252c80019f16faccc9b9d4a7?pvs=4" target="_blank">https://seen-reminder-ab4.notion.site/Portfolio-13e049c7252c80019f16faccc9b9d4a7?pvs=4</a></li>
+    <li>포트폴리오: <a href="https://www.notion.so/Portfolio-13ea19093d0980bda23dfbb4ad583bfa?pvs=4" target="_blank">https://www.notion.so/Portfolio-13ea19093d0980bda23dfbb4ad583bfa?pvs=4</a></li>
     </br>
     <li>이력서: <a href="" target="_blank"></a></li>
     </br>
