@@ -1,6 +1,6 @@
 <div> 
     <h1>
-    🤖 SangJin's GITHUB
+    🤖 Lee Sang Jin
     </h1>
 </div>
 <!--     <ul>
