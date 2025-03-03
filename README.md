@@ -1,7 +1,8 @@
 <div> 
     <h1>
-      😎 SangJin's GITHUB 😎
-    </h1>  </br>
+    🤖 SangJin's GITHUB
+    </h1>
+</div>
 <!--     <ul>
     <li>포트폴리오: <a href="https://www.notion.so/Portfolio-13ea19093d0980bda23dfbb4ad583bfa?pvs=4" target="_blank">https://www.notion.so/Portfolio-13ea19093d0980bda23dfbb4ad583bfa?pvs=4</a></li>
     </br>
@@ -9,7 +10,7 @@
     </br>
     <li>이메일: <a href="mailto:bobaesj0923@gmail.com">bobaesj0923@gmail.com</a></li>
 </ul> -->
-</div>
+<!-- </div>
 <div> 
     <h2>
         🏅 Stats 
@@ -70,4 +71,4 @@
              <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bobaesj0923@gmail.com">
          </a>
     </div>
-</div>
+</div> -->
